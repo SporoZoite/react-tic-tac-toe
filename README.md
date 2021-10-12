@@ -1,1 +1,1 @@
-# react-tic-tac-toe
+# reactjs.org tutorial with the local development environment method
